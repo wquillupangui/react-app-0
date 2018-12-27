@@ -9,12 +9,12 @@
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/user_icon_2.svg": "/static/media/user_icon_2.2f3d979a.svg",
   "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/media/theme.css": "/static/media/open-sans-v15-latin-700.2e00b263.svg",
+  "static/media/theme.css": "/static/media/open-sans-v15-latin-regular.7aab4c13.svg",
   "static/media/primereact.min.css": "/static/media/line.567f5738.gif",
   "static/media/primeicons.css": "/static/media/primeicons.38d77552.svg",
   "static/css/main.cc1ad5ef.chunk.css.map": "/static/css/main.cc1ad5ef.chunk.css.map",
   "static/css/1.4f27a6e3.chunk.css.map": "/static/css/1.4f27a6e3.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.a4e5c7ec6fc8a435f965366a80139989.js": "/precache-manifest.a4e5c7ec6fc8a435f965366a80139989.js",
+  "precache-manifest.bd9ed4e817bd985dedb09ea533c5e196.js": "/precache-manifest.bd9ed4e817bd985dedb09ea533c5e196.js",
   "service-worker.js": "/service-worker.js"
 }
