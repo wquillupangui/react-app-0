@@ -101,7 +101,6 @@ class App extends Component {
   render() {
     console.log("thisn", this.state.messxs);
     return (
-      <React.Fragment>{this.rendrerComps()}</React.Fragment>
       /**<div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
@@ -118,6 +117,7 @@ class App extends Component {
           </a>
         </header>
       </div>*/
+      <React.Fragment>{this.rendrerComps()}</React.Fragment>
     );
   }
 }
