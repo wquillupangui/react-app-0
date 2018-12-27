@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/static/media/open-sans-v15-latin-regular.cffb686d.woff2"
   },
   {
-    "revision": "d08c09f2f169f4a6edbcf8b8d1636cb4",
-    "url": "/static/media/open-sans-v15-latin-700.d08c09f2.woff2"
-  },
-  {
     "revision": "148a6749baa5f658a45183ddb5ee159f",
     "url": "/static/media/open-sans-v15-latin-700.148a6749.eot"
+  },
+  {
+    "revision": "d08c09f2f169f4a6edbcf8b8d1636cb4",
+    "url": "/static/media/open-sans-v15-latin-700.d08c09f2.woff2"
   },
   {
     "revision": "521d17bc9f3526c690e8ada6eee55bec",
