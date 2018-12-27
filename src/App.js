@@ -6,12 +6,7 @@ import "./App.css";
 import "primereact/resources/themes/nova-light/theme.css";
 import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
-import { library } from "@fortawesome/fontawesome-svg-core";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faIgloo } from "@fortawesome/free-solid-svg-icons";
 import InputUsr from "./comp/inputUsr";
-
-library.add(faIgloo);
 
 class App extends Component {
   state = {

@@ -4,8 +4,7 @@ import Usr from "./usr";
 import Dte from "./dte";
 import Vte from "./vte";
 import { Button } from "primereact/button";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faReply } from "@fortawesome/free-solid-svg-icons";
+
 import InputMess from "./inputMess";
 
 class Mess extends Component {
